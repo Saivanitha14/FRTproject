@@ -1,17 +1,17 @@
 # FRTproject
-#PROJECT NAME : ✨MEDICAL CARE 🧑🏻‍⚕️
+# PROJECT NAME : ✨MEDICAL CARE 🧑🏻‍⚕️
 This is a web based application developed for health related based website.
 
-This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
+* This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
 
-#Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
-#Project demo video link :
+# Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
+# Project demo video link :
 
-#Azure technologies used for Project
+# Azure technologies used for Project
 Static web apps 
 Health bot 
 
-##Features and Functionalities 😀
+## Features and Functionalities 😀
 Interactive and Responsive UI
 Modern and Elegant Design
 Used Font awesome icons and Glyph icons
@@ -23,10 +23,10 @@ Medical Appointment booking system
 Used Smooth Scrolling
 Implemented Health bot service
 
-*Compatible Browsers: – Google Chrome, Firefox, Safari, IE 10, Opera etc.
+* Compatible Browsers: – Google Chrome, Firefox, Safari, IE 10, Opera etc.
 
-##SCREENSHOTS
-###Home page
+## SCREENSHOTS
+### Home page
 
 
 
@@ -35,7 +35,7 @@ Implemented Health bot service
 
 
 
-###About
+### About
 
 
 
@@ -44,7 +44,7 @@ Implemented Health bot service
 
 
 
-###Services
+### Services
 
 
 
@@ -53,7 +53,7 @@ Implemented Health bot service
 
 
 
-###Team
+### Team
 
 
 
@@ -61,7 +61,7 @@ Implemented Health bot service
 ![Screenshot 2023-06-27 110655](https://github.com/Saivanitha14/FRTproject/assets/123561835/0a2f94c3-b835-460a-be5b-047e0a55900f)
 
 
-###Appointment
+### Appointment
 
 
 
@@ -70,7 +70,7 @@ Implemented Health bot service
 
 
 
-###Dropdown-Laboratories and Testimonals
+### Dropdown-Laboratories and Testimonals
 
 
 
@@ -84,7 +84,7 @@ Implemented Health bot service
 
 
 
-###Contact
+### Contact
 
 
 
@@ -92,7 +92,7 @@ Implemented Health bot service
 ![Screenshot 2023-06-27 111117](https://github.com/Saivanitha14/FRTproject/assets/123561835/f47d97d9-7b96-4397-9bd3-ec8b92927476)
 
 
-###Health bot
+### Health bot
 
 
 
@@ -101,7 +101,7 @@ Implemented Health bot service
 
 
 
-#Tech Stack 💻
+# Tech Stack 💻:
 Azure(Hosting)
 HTML5
 CSS3
