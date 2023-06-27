@@ -1,27 +1,27 @@
 # FRTproject
 # PROJECT NAME : ✨MEDICAL CARE 🧑🏻‍⚕️
-This is a web based application developed for health related based website.
+* This is a web based application developed for health related based website.
 
-* This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
+## This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
 
 * Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
 * Project demo video link :
 
 # Azure technologies used for Project
-Static web apps 
-Health bot 
+* Static web apps 
+* Health bot 
 
 ## Features and Functionalities 😀
-Interactive and Responsive UI
-Modern and Elegant Design
-Used Font awesome icons and Glyph icons
-Responsive banner text slider Used
-Clean and Clear Structure
-Effective transition and Hover effects
-Google Fonts used
-Medical Appointment booking system
-Used Smooth Scrolling
-Implemented Health bot service
+* Interactive and Responsive UI
+* Modern and Elegant Design
+* Used Font awesome icons and Glyph icons
+* Responsive banner text slider Used
+* Clean and Clear Structure
+* Effective transition and Hover effects
+* Google Fonts used
+* Medical Appointment booking system
+* Used Smooth Scrolling
+* Health bot service
 
 * Compatible Browsers: – Google Chrome, Firefox, Safari, IE 10, Opera etc.
 
