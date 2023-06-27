@@ -4,8 +4,8 @@ This is a web based application developed for health related based website.
 
 * This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
 
-# Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
-# Project demo video link :
+* Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
+* Project demo video link :
 
 # Azure technologies used for Project
 Static web apps 
