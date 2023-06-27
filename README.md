@@ -102,11 +102,11 @@
 
 
 # Tech Stack 💻:
-Azure(Hosting)
-HTML5
-CSS3
-JQuery
-Bootstrap Framework
+* Azure(Hosting)
+* HTML5
+* CSS3
+* JQuery
+* Bootstrap Framework
 
 
 
