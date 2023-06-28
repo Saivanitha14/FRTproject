@@ -5,11 +5,15 @@
 ## This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github.
 
 * Project Link : https://ambitious-meadow-083cd1200.3.azurestaticapps.net
-* Project demo video link :
+* Project demo video link : https://youtu.be/qqEbdD1og3c
 
 # Azure technologies used for Project
 * Static web apps 
-* Health bot 
+* Health bot
+  
+##Description:
+*The core idea of the project is to provide quality healthcare services to all users . Patients can access medical care from their comfort zones.
+Patients can consult healthcare specialists through online discussing their symptoms, receiving medical advice, and getting prescriptions when necessary.
 
 ## Features and Functionalities 😀
 * Interactive and Responsive UI
