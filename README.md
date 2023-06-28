@@ -12,7 +12,7 @@
 * Health bot
   
 ## Description:
-*The core idea of the project is to provide quality healthcare services to all users . Patients can access medical care from their comfort zones.
+The core idea of the project is to provide quality healthcare services to all users . Patients can access medical care from their comfort zones.
 Patients can consult healthcare specialists through online discussing their symptoms, receiving medical advice, and getting prescriptions when necessary.
 
 ## Features and Functionalities 😀
